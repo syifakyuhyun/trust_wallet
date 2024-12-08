@@ -98,3 +98,8 @@ Ensure sufficient storage space and stable internet connection.
 
 **Is Trust Wallet safe?**
 Yes, it is secure when downloaded from trusted sources only.
+
+## Read Also
+- [Exodus Wallet: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/exodus/blob/main/README.md)
+- [Ledger Live Desktop: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/Ledger_Live/blob/main/README.md)
+- [Solflare Extension: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/Solflare/blob/main/README.md)
