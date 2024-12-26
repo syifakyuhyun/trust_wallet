@@ -20,6 +20,8 @@
 ## Pre-installation Preparation
 _Time Required: 10 minutes_
 
+*Author's Note: If you’re looking for a clear guide on transferring USDT, I recommend checking out the article [Metamask](https://4bearsonline.com/can-you-send-usdt-from-metamask-to-tether-wallet-2/). It explains step-by-step how to send USDT from Metamask to a Tether Wallet securely and efficiently.*
+
 Before installing the Trust Wallet app:
 
 - Verify your device compatibility.
